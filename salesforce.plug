@@ -1,0 +1,9 @@
+[Core]
+Name = SFDC
+Module = salesforce
+
+[Documentation]
+Description = This is a simple integration with Salesforce
+
+[Python]
+Version = 3
