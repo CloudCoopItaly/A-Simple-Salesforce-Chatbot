@@ -1,5 +1,5 @@
-ErrBot plugin integration with Salesforce  APIs (SFDC)
-======================================================
+A ChatBot integration with Salesforce  APIs (SFDC)
+==================================================
 
 Requirements
 ---
@@ -9,7 +9,7 @@ pip install -r requirements.txt
 Installation
 ---
 ```
-!repos install https://github.com/CloudCoopItaly/A-Sample-Chatbot-Salesforce-Integrati.git
+!repos install https://github.com/CloudCoopItaly/A-Simple-Salesforce-Chatbot.git
 ```
 
 Configure the plugin
@@ -22,3 +22,4 @@ Simple example usage
 
 Usage on Slack BackEnd
 ----------------------
+![alt text](https://github.com/CloudCoopItaly/A-Simple-Salesforce-Chatbot/blob/master/media/sfdc.gif)
